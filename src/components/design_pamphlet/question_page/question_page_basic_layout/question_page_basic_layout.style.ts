@@ -49,6 +49,7 @@ export const QuestionText = styled.Text`
   font-weight: 700;
   font-size: 28px;
   line-height: 50px;
+  color: #000000;
 
   text-align: center;
 `;
@@ -60,6 +61,7 @@ export const ChoiceText = styled.Text`
   font-size: 20px;
   line-height: 40px;
   text-align: center;
+  color: #000000;
 `;
 
 // dynamic components

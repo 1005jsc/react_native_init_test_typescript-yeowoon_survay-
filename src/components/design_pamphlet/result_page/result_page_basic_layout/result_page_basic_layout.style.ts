@@ -100,6 +100,7 @@ export const LogoText = styled.Text`
   font-weight: 700;
   font-size: 30px;
   line-height: 40px;
+  color: #000000;
 
   text-align: center;
 `;
@@ -119,6 +120,7 @@ export const ResultText = styled.Text`
   font-weight: 700;
   font-size: 30px;
   line-height: 40px;
+  color: #000000;
 
   text-align: center;
 `;
@@ -129,6 +131,7 @@ export const HashTagText = styled.Text`
   font-weight: 700;
   font-size: 20px;
   line-height: 40px;
+  color: #000000;
 
   text-align: center;
 `;
@@ -159,4 +162,5 @@ export const ButtonToKakaotalkShareText = styled.Text`
   font-weight: 900;
   font-size: 22px;
   text-align: center;
+  color: #000000;
 `;
